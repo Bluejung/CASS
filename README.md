@@ -11,7 +11,7 @@ Our method has the following characteristics.
 4)  It is possible to store the edge similarity calculated by the algorithm. If the user wants to re-experiment by changing the parameters, it is possible to analyze faster by using the edge similarity calculated previously.
 
 # Usage
-There are two main ways of executing our algorithm.
+There are two ways of executing our algorithm.
 
 1) If you want to save intermediate result (edge similarity)
 

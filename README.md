@@ -1,4 +1,4 @@
-4# CASS
+# CASS
 Cass is a software to cluster large-scale network based on Structure Similarity. 
 
 # Method

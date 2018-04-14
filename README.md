@@ -1,2 +1,5 @@
 # CASS
-The repository for providing available CASS software 
+Cass is a software to cluster large-scale network based on Structure Similarity. 
+
+#Download
+

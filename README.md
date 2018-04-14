@@ -1,5 +1,17 @@
 # CASS
 Cass is a software to cluster large-scale network based on Structure Similarity. 
 
-# Download
+# Method
+Our method is developed using Hadoop 2.7.2, Java 1.8.0, Scala 2.10, and Spark 1.6.0
+
+Our method has the following characteristics.
+1)	It is a clustering method for large-scale networks in distributed systems.
+2)	Changing the process of calculating structure similarity to a form suitable for distributed system environments using a triangle structure and join operations.
+3)	Reducing the execution time by considering optimization approaches such as Bloom filter and join operation.
+
+# Usage
+
+
+
+
 
